@@ -1,0 +1,1 @@
+const nameApp = 'App Clean';
